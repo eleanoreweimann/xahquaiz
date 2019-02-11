@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohdaefe.iimkb.com/sitemap.xml
